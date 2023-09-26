@@ -1,0 +1,6 @@
+TODO:
+In this file perform a postmortem.
+What was the work that was done?
+How was it divided?
+How would you distribute the grade (50/50, 60/40, 33/33/33?).
+What would you do differently next time?
